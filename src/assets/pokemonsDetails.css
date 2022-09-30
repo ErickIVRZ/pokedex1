@@ -1,0 +1,11 @@
+.detail{
+  width: 100vw;
+  height: 100vh;
+  background-color: black;
+  text-align: center;
+  color: aliceblue;
+  background-image: url('./images.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+align-items: center;
+}

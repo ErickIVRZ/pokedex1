@@ -1,0 +1,37 @@
+.trainer{
+  width: 100vw;
+  height: 100vh;
+  color: brown;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  margin-right: 300px;
+  background-color: black;
+}
+.img-trainer{
+  width: 300px;
+  height: 300px;
+  background-image: url('../assets/poketrainer.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  display: flex;
+  margin-left: 650px;
+  
+  
+}
+.input1{
+  width: 250px;
+  height: 20px;
+  border-radius: 10px;
+  display: flex;
+  margin-left: 560px;
+}
+
+.button{
+  width: 50px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: rgb(53, 250, 9);
+  margin-left: 45px;
+}

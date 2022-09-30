@@ -1,0 +1,7 @@
+.pokemonCard{
+  box-shadow: 2px 2px 8px rgba(244, 239, 239, 0.2);
+  border-radius: 10px;
+  
+  
+  margin-left: 20px;
+}
