@@ -13,6 +13,10 @@
 npm install
 ```
 
+## Link page
+
+https://pokedex-erkvrz.netlify.app/
+
 ## Author
 
 👤 **Erick VRZ**
